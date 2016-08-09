@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <!-- Mini-project 1  - Build a small game where the user has to guess a secret number which is generated automatically in Javascript. After each guess the webpage displays to the user whether their guess is too large or too small. When the user guesses the secret number correctly - three pieces of information are displayed on the webpage: (1) the correct number  (2)the number of guesses (3)the message “Well done – correct guess!” -->
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1"> 
+    <link rel="stylesheet" href="../bootstrap.css">  
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <script src="bootstrap.js"></script> 
+    
+    
+  </head>
+
+  <body>
+        <div class = "container">
+            <div class="jumbotron text-center well">
+            <h2 class="text-danger">Guess a number between 1 and 100</h2>
+            <br/>
+            <h3 class="text-primary">This is a simple guess the number game</h3>
+            <h3 class="text-primary">See how many guesses it takes you!</h3>
+            <br/>
+            <br/>
+            <br/>
+            <!--Create a text box for user input-->
+            <span class="text-lg">Enter a guess:</span>
+            <input type="number input-lg" id="tbGuess">            
+            <!--Create a button -->
+            <button id="buttonGuess" class="btn-lg btn-primary">Guess!</button>
+            
+            <!--Create a place for the output-->
+            <div id="feedback1"></div> 
+            <div id="feedback2"></div> 
+            <br/>
+            <br/>
+            <div id="debug"></div> 
+          </div>
+        </div>
+    <script src="guessTheNumber.js"></script> 
+    
+  </body>
+
+</html>
