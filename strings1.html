@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <!-- Strings exercise 1 - Input text and display text in 3 boxes (1) unmodified (2) toUpperCase (3) toLowerCase -->
+  <head>
+    <!-- <meta charset="UTF-8"> prevents display errors with special characters such as £ --> 
+    <meta charset="UTF-8"> 
+    <link rel="stylesheet" href="./stylesStrings.css">
+    
+  </head>
+
+  <body>
+        <div>
+            <h2>Strings - exercise 1 - convert to upper and lower case</h2>
+            
+            <span>Please enter some text:</span>
+            <input type = "text" id="inputTextBox"/>
+            <br/>
+            <br/>
+            <button type="button" id="submitText">Convert Text </button>
+            <br/>
+			
+			<!-- creating a placeholder for the output-->
+			
+            <p>Here is the text that you entered:
+            <span id="textEntered" class = "outputBox"></span>
+            </p>
+            <p>Here it is in upper case:
+            <span id="textUpperCase" class = "outputBox"></span>
+            </p>
+            <p>Here it is in lower case:
+            <span id=textLowerCase class = "outputBox"></span>
+            </p>
+            <br/>
+            <br/>
+        </div>
+    <script src="strings1.js"></script>  
+  </body>
+
+</html>
+ 

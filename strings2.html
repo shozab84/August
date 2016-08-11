@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <!-- Strings exercise 2 - Input a string and display the letter at the given index using the slice() method.  On a separate line display the string from that same character to the end of the string -->
+  <head>
+    <!-- <meta charset="UTF-8"> prevents display errors with special characters such as £ --> 
+    <meta charset="UTF-8"> 
+    <link rel="stylesheet" href="stylesStrings.css">
+    
+  </head>
+
+  <body>
+        <div>
+            <h2>Strings - exercise 2 - slice the string</h2>
+            
+            <span>Please enter some text:</span>
+            <input type = "text" id="inputTextBox"/>
+            <br/>
+            <span>At which position is the character would you like to display?</span>
+            <input type = "number" id="inputNumber"/>
+            <br/>
+            <br/>
+            <button type="button" id="submitText">Submit</button>
+            <br/>
+            <br/>
+            <p id="errorMessage"></p>
+            <p>Here is the text that you entered:
+            <span id="textEntered" class = "outputBox"></span>
+            </p>
+            <p>Here the character that you chose:
+            <span id="textCharacter" class = "outputBox"></span>
+            </p>
+            <p>Here is the rest of the string:
+            <span id="textRestOfString" class = "outputBox"></span>
+            </p>
+            <br/>
+            <br/>
+        </div>
+    <script src="strings2.js"></script>  
+  </body>
+
+</html>
+ 

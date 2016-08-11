@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <!--Mini Project (Arrays): Random winner generator       
+        http://lite-support.co.uk/dev/published/randomwinnergenerator/rwg.html
+        Users can input elements into an array and then select a random winner from that array and display it on the screen -->
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+
+  <body>
+        <div>
+            <h2>Random winner generator</h2>
+            <br/>
+            <p>Enter the names that you would like to put into the draw:</p>
+			
+			<input type ="text" id ="nameInput"/>
+			<button id = "nameButton"> Add name</button>
+            <br/>
+			<br/>
+			<button id = "winnerButton"> Select winner</button>
+			<br/>
+            <br/>
+			
+			
+		  <!--Create a place for the output-->
+			
+            <p id="winnerDisplay"></p>
+            <br/>
+            <br/>
+            
+			<p id="namesDisplay"></p>
+            
+			<ul id="namesList">
+            </ul>
+            
+
+        </div>
+    <script src="randomWinner.js"></script>  
+  </body>
+
+</html>
