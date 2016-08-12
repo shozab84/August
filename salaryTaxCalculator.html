@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <!-- Assessment exercise - Salary Tax calculator -->
+  <head>
+    <!-- <meta charset="UTF-8"> prevents display errors with special characters such as £ --> 
+    <meta charset="UTF-8"> 
+    <link rel="stylesheet" href="stylesStrings.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  </head>
+
+  <body>
+        <div>
+            <h2>Salary Tax Calculator</h2>
+            
+            <span>Please enter your gross annual salary:</span>
+            <input type = "text" id="inputTextBox"/>
+            <br/>
+			<br/>
+			
+			<button type="button"id="submitText">Calculate Tax</button>
+			
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            
+			<!-- creating a place holder for the output-->
+			
+            <p>Gross Salary:
+            <span id="gsSal" class = "outputBox"></span>
+            </p>
+            <p>Tax Free Allowance:
+            <span id="TxFrAll" class = "outputBox"></span>
+            </p>	
+			<p>Tax Paid at 20% :
+            <span id="txPd20" class = "outputBox"></span>
+            </p>
+            <p>Tax Paid at 40% :
+            <span id="txPd40" class = "outputBox"></span>
+            </p>
+			<p>Tax Paid at 45% :
+            <span id="txPd45" class = "outputBox"></span>
+            </p>
+            <p>NI paid at 12% :
+            <span id="nipd12" class = "outputBox"></span>
+            </p>
+            <p>NI paid at 2% :
+            <span id="nipd2" class = "outputBox"></span>
+            </p>
+			<p>Net Salary :
+            <span id="nSal" class = "outputBox"></span>
+            </p>
+			<br/>
+            <br/>
+			
+        </div>
+    <script src="salaryTaxCalculator.js"></script>  
+  </body>
+
+</html>
+ 
