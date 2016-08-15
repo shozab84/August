@@ -1,0 +1,6 @@
+C:\Users\student\Shozab_Rizvi\August\DataStructure\DataStructure\bin\Debug\DataStructure.exe.config
+C:\Users\student\Shozab_Rizvi\August\DataStructure\DataStructure\obj\Debug\DataStructure.csprojResolveAssemblyReference.cache
+C:\Users\student\Shozab_Rizvi\August\DataStructure\DataStructure\bin\Debug\DataStructure.exe
+C:\Users\student\Shozab_Rizvi\August\DataStructure\DataStructure\bin\Debug\DataStructure.pdb
+C:\Users\student\Shozab_Rizvi\August\DataStructure\DataStructure\obj\Debug\DataStructure.exe
+C:\Users\student\Shozab_Rizvi\August\DataStructure\DataStructure\obj\Debug\DataStructure.pdb

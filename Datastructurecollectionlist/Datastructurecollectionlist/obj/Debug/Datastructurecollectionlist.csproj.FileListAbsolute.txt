@@ -1,0 +1,6 @@
+C:\Users\student\Shozab_Rizvi\August\Datastructurecollectionlist\Datastructurecollectionlist\bin\Debug\Datastructurecollectionlist.exe.config
+C:\Users\student\Shozab_Rizvi\August\Datastructurecollectionlist\Datastructurecollectionlist\bin\Debug\Datastructurecollectionlist.exe
+C:\Users\student\Shozab_Rizvi\August\Datastructurecollectionlist\Datastructurecollectionlist\bin\Debug\Datastructurecollectionlist.pdb
+C:\Users\student\Shozab_Rizvi\August\Datastructurecollectionlist\Datastructurecollectionlist\obj\Debug\Datastructurecollectionlist.csprojResolveAssemblyReference.cache
+C:\Users\student\Shozab_Rizvi\August\Datastructurecollectionlist\Datastructurecollectionlist\obj\Debug\Datastructurecollectionlist.exe
+C:\Users\student\Shozab_Rizvi\August\Datastructurecollectionlist\Datastructurecollectionlist\obj\Debug\Datastructurecollectionlist.pdb

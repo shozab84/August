@@ -1,0 +1,6 @@
+C:\Users\student\Shozab_Rizvi\August\IterationStructure\IterationStructure\bin\Debug\IterationStructure.exe.config
+C:\Users\student\Shozab_Rizvi\August\IterationStructure\IterationStructure\bin\Debug\IterationStructure.exe
+C:\Users\student\Shozab_Rizvi\August\IterationStructure\IterationStructure\bin\Debug\IterationStructure.pdb
+C:\Users\student\Shozab_Rizvi\August\IterationStructure\IterationStructure\obj\Debug\IterationStructure.csprojResolveAssemblyReference.cache
+C:\Users\student\Shozab_Rizvi\August\IterationStructure\IterationStructure\obj\Debug\IterationStructure.exe
+C:\Users\student\Shozab_Rizvi\August\IterationStructure\IterationStructure\obj\Debug\IterationStructure.pdb

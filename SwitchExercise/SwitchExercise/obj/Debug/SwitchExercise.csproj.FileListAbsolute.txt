@@ -1,0 +1,6 @@
+C:\Users\student\Shozab_Rizvi\August\SwitchExercise\SwitchExercise\bin\Debug\SwitchExercise.exe.config
+C:\Users\student\Shozab_Rizvi\August\SwitchExercise\SwitchExercise\obj\Debug\SwitchExercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Shozab_Rizvi\August\SwitchExercise\SwitchExercise\bin\Debug\SwitchExercise.exe
+C:\Users\student\Shozab_Rizvi\August\SwitchExercise\SwitchExercise\bin\Debug\SwitchExercise.pdb
+C:\Users\student\Shozab_Rizvi\August\SwitchExercise\SwitchExercise\obj\Debug\SwitchExercise.exe
+C:\Users\student\Shozab_Rizvi\August\SwitchExercise\SwitchExercise\obj\Debug\SwitchExercise.pdb
