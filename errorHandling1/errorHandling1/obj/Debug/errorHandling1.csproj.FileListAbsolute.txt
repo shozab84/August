@@ -1,0 +1,6 @@
+C:\Users\student\Shozab_Rizvi\August\errorHandling1\errorHandling1\bin\Debug\errorHandling1.exe.config
+C:\Users\student\Shozab_Rizvi\August\errorHandling1\errorHandling1\bin\Debug\errorHandling1.exe
+C:\Users\student\Shozab_Rizvi\August\errorHandling1\errorHandling1\bin\Debug\errorHandling1.pdb
+C:\Users\student\Shozab_Rizvi\August\errorHandling1\errorHandling1\obj\Debug\errorHandling1.csprojResolveAssemblyReference.cache
+C:\Users\student\Shozab_Rizvi\August\errorHandling1\errorHandling1\obj\Debug\errorHandling1.exe
+C:\Users\student\Shozab_Rizvi\August\errorHandling1\errorHandling1\obj\Debug\errorHandling1.pdb

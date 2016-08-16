@@ -11,47 +11,59 @@ namespace Datastructurecollectionlist
         static void Main(string[] args)
         {
 
-            List<string> books = new List<string>() { "The hunger games", "catching fire", "The alchemist", "who moved my cheese" };
-            Console.WriteLine("This program contains a list of books");
-            foreach( string book in books)
-            {
-                Console.WriteLine(book);
-            }
-
-
-            Console.WriteLine();
+            List<string> mybooks = new List<string>() { "The hunger games", "catching fire", "The alchemist", "who moved my cheese" };// creating a list of books
             Console.WriteLine("Press A, D, L, S if you want to Add/ Delete/ List / Sort through the list");
-            string userinput = Console.ReadLine().ToLower();  
+            Console.WriteLine("to exit, press x");
+            string userinput = Console.ReadLine().ToLower();
 
-            switch(userinput)
+
+            do
             {
-                case "a":
-                    Console.WriteLine("Please enter the name of the book you want to add");
-                    string addition = Console.ReadLine();
-                    books.Add(addition);
-                    break;
 
-                case "d":
-                    Console.WriteLine("Please enter the name of the book you want to delete");
-                    string deletion = Console.ReadLine();
-                    books.Add(deletion);
-                    break;
-                    
-                case "l":
-                    break;
-                    
+                switch (userinput)
+                {
+                    case "a":
+                        Console.WriteLine("Please enter the name of the book you want to add");// showing user text on screen
+                        string bookToAdd = Console.ReadLine();// reading user input from the screen
+                        mybooks.Add(bookToAdd);//doing addition to the booklist
+                        Console.WriteLine(bookToAdd + " has been added to the list");// giving user confirmation
+                        break;
 
-                case "s":
+                    case "d":
+                        Console.WriteLine("Please enter the name of the book you want to delete");
+                        string deletion = Console.ReadLine();
+                        mybooks.Remove(deletion);// doing deletion from the list
+                        break;
 
-                    books.Sort();
-                    break;
+                    case "l":
+                        foreach (string bookTitle in mybooks)
+                        {
+                            Console.WriteLine(bookTitle);// showing the list of books
+                        }
 
-                default:
-                    break;  
+                        break;
+
+
+                    case "s":
+                        mybooks.Sort();// sorting books in the list
+                        Console.WriteLine("Books have been sorted");
+                        break;
+                        
+                    default:
+                        break;
+
+                }
+
+                Console.WriteLine("What would you like to do next: A, D, L. S or X?:");// showing user the Menu item so that he can make a choice again
+                userinput = (Console.ReadLine().ToLower());
 
             }
 
-           
+            while (userinput != "x");
+                             
+
+            
+
 
         }
     }

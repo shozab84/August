@@ -1,0 +1,6 @@
+C:\Users\student\Shozab_Rizvi\August\DataStructures_Dictionaries\DataStructures_Dictionaries\bin\Debug\DataStructures_Dictionaries.exe.config
+C:\Users\student\Shozab_Rizvi\August\DataStructures_Dictionaries\DataStructures_Dictionaries\obj\Debug\DataStructures_Dictionaries.csprojResolveAssemblyReference.cache
+C:\Users\student\Shozab_Rizvi\August\DataStructures_Dictionaries\DataStructures_Dictionaries\bin\Debug\DataStructures_Dictionaries.exe
+C:\Users\student\Shozab_Rizvi\August\DataStructures_Dictionaries\DataStructures_Dictionaries\bin\Debug\DataStructures_Dictionaries.pdb
+C:\Users\student\Shozab_Rizvi\August\DataStructures_Dictionaries\DataStructures_Dictionaries\obj\Debug\DataStructures_Dictionaries.exe
+C:\Users\student\Shozab_Rizvi\August\DataStructures_Dictionaries\DataStructures_Dictionaries\obj\Debug\DataStructures_Dictionaries.pdb

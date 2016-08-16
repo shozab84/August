@@ -1,0 +1,6 @@
+C:\Users\student\Shozab_Rizvi\August\classes\classes\bin\Debug\classes.exe.config
+C:\Users\student\Shozab_Rizvi\August\classes\classes\bin\Debug\classes.exe
+C:\Users\student\Shozab_Rizvi\August\classes\classes\bin\Debug\classes.pdb
+C:\Users\student\Shozab_Rizvi\August\classes\classes\obj\Debug\classes.csprojResolveAssemblyReference.cache
+C:\Users\student\Shozab_Rizvi\August\classes\classes\obj\Debug\classes.exe
+C:\Users\student\Shozab_Rizvi\August\classes\classes\obj\Debug\classes.pdb
