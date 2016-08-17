@@ -1,0 +1,6 @@
+C:\Users\student\Shozab_Rizvi\August\Constructors_Exercise\Constructors_Exercise\bin\Debug\Constructors_Exercise.exe.config
+C:\Users\student\Shozab_Rizvi\August\Constructors_Exercise\Constructors_Exercise\obj\Debug\Constructors_Exercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Shozab_Rizvi\August\Constructors_Exercise\Constructors_Exercise\bin\Debug\Constructors_Exercise.exe
+C:\Users\student\Shozab_Rizvi\August\Constructors_Exercise\Constructors_Exercise\bin\Debug\Constructors_Exercise.pdb
+C:\Users\student\Shozab_Rizvi\August\Constructors_Exercise\Constructors_Exercise\obj\Debug\Constructors_Exercise.exe
+C:\Users\student\Shozab_Rizvi\August\Constructors_Exercise\Constructors_Exercise\obj\Debug\Constructors_Exercise.pdb

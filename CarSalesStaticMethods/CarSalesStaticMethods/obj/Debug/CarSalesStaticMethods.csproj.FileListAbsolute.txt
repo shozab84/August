@@ -1,0 +1,6 @@
+C:\Users\student\Shozab_Rizvi\August\CarSalesStaticMethods\CarSalesStaticMethods\bin\Debug\CarSalesStaticMethods.exe.config
+C:\Users\student\Shozab_Rizvi\August\CarSalesStaticMethods\CarSalesStaticMethods\bin\Debug\CarSalesStaticMethods.exe
+C:\Users\student\Shozab_Rizvi\August\CarSalesStaticMethods\CarSalesStaticMethods\bin\Debug\CarSalesStaticMethods.pdb
+C:\Users\student\Shozab_Rizvi\August\CarSalesStaticMethods\CarSalesStaticMethods\obj\Debug\CarSalesStaticMethods.csprojResolveAssemblyReference.cache
+C:\Users\student\Shozab_Rizvi\August\CarSalesStaticMethods\CarSalesStaticMethods\obj\Debug\CarSalesStaticMethods.exe
+C:\Users\student\Shozab_Rizvi\August\CarSalesStaticMethods\CarSalesStaticMethods\obj\Debug\CarSalesStaticMethods.pdb
