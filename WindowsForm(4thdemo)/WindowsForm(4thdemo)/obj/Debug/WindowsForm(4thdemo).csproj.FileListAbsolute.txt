@@ -1,0 +1,8 @@
+C:\Users\student\Shozab_Rizvi\August\WindowsForm(4thdemo)\WindowsForm(4thdemo)\bin\Debug\WindowsForm(4thdemo).exe.config
+C:\Users\student\Shozab_Rizvi\August\WindowsForm(4thdemo)\WindowsForm(4thdemo)\bin\Debug\WindowsForm(4thdemo).exe
+C:\Users\student\Shozab_Rizvi\August\WindowsForm(4thdemo)\WindowsForm(4thdemo)\bin\Debug\WindowsForm(4thdemo).pdb
+C:\Users\student\Shozab_Rizvi\August\WindowsForm(4thdemo)\WindowsForm(4thdemo)\obj\Debug\WindowsForm_4thdemo_.Form1.resources
+C:\Users\student\Shozab_Rizvi\August\WindowsForm(4thdemo)\WindowsForm(4thdemo)\obj\Debug\WindowsForm_4thdemo_.Properties.Resources.resources
+C:\Users\student\Shozab_Rizvi\August\WindowsForm(4thdemo)\WindowsForm(4thdemo)\obj\Debug\WindowsForm(4thdemo).csproj.GenerateResource.Cache
+C:\Users\student\Shozab_Rizvi\August\WindowsForm(4thdemo)\WindowsForm(4thdemo)\obj\Debug\WindowsForm(4thdemo).exe
+C:\Users\student\Shozab_Rizvi\August\WindowsForm(4thdemo)\WindowsForm(4thdemo)\obj\Debug\WindowsForm(4thdemo).pdb

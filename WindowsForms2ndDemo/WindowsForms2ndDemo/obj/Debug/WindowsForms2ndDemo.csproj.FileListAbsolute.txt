@@ -1,0 +1,9 @@
+C:\Users\student\Shozab_Rizvi\August\WindowsForms2ndDemo\WindowsForms2ndDemo\bin\Debug\WindowsForms2ndDemo.exe.config
+C:\Users\student\Shozab_Rizvi\August\WindowsForms2ndDemo\WindowsForms2ndDemo\bin\Debug\WindowsForms2ndDemo.exe
+C:\Users\student\Shozab_Rizvi\August\WindowsForms2ndDemo\WindowsForms2ndDemo\bin\Debug\WindowsForms2ndDemo.pdb
+C:\Users\student\Shozab_Rizvi\August\WindowsForms2ndDemo\WindowsForms2ndDemo\obj\Debug\WindowsForms2ndDemo.csprojResolveAssemblyReference.cache
+C:\Users\student\Shozab_Rizvi\August\WindowsForms2ndDemo\WindowsForms2ndDemo\obj\Debug\WindowsForms2ndDemo.Form1.resources
+C:\Users\student\Shozab_Rizvi\August\WindowsForms2ndDemo\WindowsForms2ndDemo\obj\Debug\WindowsForms2ndDemo.Properties.Resources.resources
+C:\Users\student\Shozab_Rizvi\August\WindowsForms2ndDemo\WindowsForms2ndDemo\obj\Debug\WindowsForms2ndDemo.csproj.GenerateResource.Cache
+C:\Users\student\Shozab_Rizvi\August\WindowsForms2ndDemo\WindowsForms2ndDemo\obj\Debug\WindowsForms2ndDemo.exe
+C:\Users\student\Shozab_Rizvi\August\WindowsForms2ndDemo\WindowsForms2ndDemo\obj\Debug\WindowsForms2ndDemo.pdb
