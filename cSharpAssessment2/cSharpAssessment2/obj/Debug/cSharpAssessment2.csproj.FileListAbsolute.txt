@@ -1,0 +1,6 @@
+C:\Users\student\Shozab_Rizvi\August\cSharpAssessment2\cSharpAssessment2\bin\Debug\cSharpAssessment2.exe.config
+C:\Users\student\Shozab_Rizvi\August\cSharpAssessment2\cSharpAssessment2\obj\Debug\cSharpAssessment2.csprojResolveAssemblyReference.cache
+C:\Users\student\Shozab_Rizvi\August\cSharpAssessment2\cSharpAssessment2\bin\Debug\cSharpAssessment2.exe
+C:\Users\student\Shozab_Rizvi\August\cSharpAssessment2\cSharpAssessment2\bin\Debug\cSharpAssessment2.pdb
+C:\Users\student\Shozab_Rizvi\August\cSharpAssessment2\cSharpAssessment2\obj\Debug\cSharpAssessment2.exe
+C:\Users\student\Shozab_Rizvi\August\cSharpAssessment2\cSharpAssessment2\obj\Debug\cSharpAssessment2.pdb
